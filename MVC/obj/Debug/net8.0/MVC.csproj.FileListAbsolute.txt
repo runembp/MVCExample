@@ -1,0 +1,14 @@
+C:\Users\runem\Desktop\MVC\MVC\bin\Debug\net8.0\MVC.exe
+C:\Users\runem\Desktop\MVC\MVC\bin\Debug\net8.0\MVC.deps.json
+C:\Users\runem\Desktop\MVC\MVC\bin\Debug\net8.0\MVC.runtimeconfig.json
+C:\Users\runem\Desktop\MVC\MVC\bin\Debug\net8.0\MVC.dll
+C:\Users\runem\Desktop\MVC\MVC\bin\Debug\net8.0\MVC.pdb
+C:\Users\runem\Desktop\MVC\MVC\obj\Debug\net8.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runem\Desktop\MVC\MVC\obj\Debug\net8.0\MVC.AssemblyInfoInputs.cache
+C:\Users\runem\Desktop\MVC\MVC\obj\Debug\net8.0\MVC.AssemblyInfo.cs
+C:\Users\runem\Desktop\MVC\MVC\obj\Debug\net8.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\runem\Desktop\MVC\MVC\obj\Debug\net8.0\MVC.dll
+C:\Users\runem\Desktop\MVC\MVC\obj\Debug\net8.0\refint\MVC.dll
+C:\Users\runem\Desktop\MVC\MVC\obj\Debug\net8.0\MVC.pdb
+C:\Users\runem\Desktop\MVC\MVC\obj\Debug\net8.0\MVC.genruntimeconfig.cache
+C:\Users\runem\Desktop\MVC\MVC\obj\Debug\net8.0\ref\MVC.dll
