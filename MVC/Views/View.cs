@@ -2,7 +2,10 @@
 using MVC.DTO;
 
 // View
-Login();
+var username = Console.ReadLine();
+var password = Console.ReadLine();
+
+Login(username, password);
 
 // Single Responsibility Principle
 
@@ -13,12 +16,9 @@ Login();
 //                                       -> Mapping
 
 
-static void Login()
+static void Login(string username, string password)
 {
     var controller = new LoginController();
-
-    var username = Console.ReadLine();
-    var password = Console.ReadLine();
 
     var user = controller.Login(username, password);
 
@@ -28,7 +28,7 @@ static void Login()
         return;
     }
 
-    Login();
+    // LoginAgain();
 }
 
 static void SendToDashboard(UserDTO userDto)
